@@ -1,0 +1,10 @@
+PODS:
+  - INTULocationManager (4.2.0)
+
+DEPENDENCIES:
+  - INTULocationManager (~> 4.1)
+
+SPEC CHECKSUMS:
+  INTULocationManager: 73f8254b3d05c897c56bb13c190e5b7c648c0998
+
+COCOAPODS: 0.38.2
